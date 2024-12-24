@@ -1,0 +1,1128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    position: fixed !important;
+}
+
+
+.navbar-nav{
+    color: white !important;
+    margin-left: 26rem !important;
+}
+
+
+.navbar-expand-lg{
+    height: 15vh !important;
+   background-image: url(img/back.webp) !important;
+   
+}
+.navbar-brand{
+    margin-left: 3rem !important;
+}
+
+.let{
+    border-radius:10rem;
+    border: none;
+    border: 0.5px solid white;
+    background-color: rgb(255, 135, 114);
+    color: white !important;
+    height: 7vh;
+    width: 7vw;
+    transition: 0.5s !important;
+
+}
+.let:hover{
+    background-color:white !important;
+    color: tomato !important;
+    border: none;
+
+}
+
+
+
+
+
+.navbar-brand{
+    color: white !important;
+    font-size: 2.5rem !important;
+}
+
+
+.navbar-nav{
+    margin-left: auto !important;
+    color: white !important;
+}
+
+.nav-item{
+    color: white;
+}
+
+.back{
+    height: 80vh;
+    width: 100%;
+    background-image: url(img/back.webp);
+    background-size:100% 100% ;
+    display: flex !important;
+    align-items: center !important;
+
+
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.img{
+    height:50vh;
+    width: 25vw;
+    background-image: url(img/her.webp);
+    background-size: 100% 100%;
+}
+
+
+#about{
+  font-size: 3.5rem;
+  color: white;
+  font-weight: 500;
+}
+
+
+
+#head{
+    font-size: 2rem;
+    font-weight: 500;
+    color: black;
+
+}
+
+
+.para{
+    margin-left: 60px;
+}
+
+.contact{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url(img/back.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+#ab-1{
+    color: white;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+#ab-2{
+    color: white;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+#ab-3{
+    color: white;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+#ab-4{
+    color: white;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+#ab-5{
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+#ab-6{
+    color: white;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.about{
+    margin-top: 8rem;
+}
+
+.navbutton{
+    display: none;
+}
+
+.linkerpak{
+    display: none !important;
+}
+
+.header{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#h1{
+    font-size: 3rem;
+    color: black;
+    font-weight: 500;
+    margin-left:5rem;
+}
+
+.parent{
+    height: 80vh;
+    width: 100%;
+}
+
+.cardparent{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card-title{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: black;
+}
+
+.card-text{
+    color: black;
+    
+}
+.go{
+    text-decoration: none !important;
+    color: tomato;
+}
+.go{
+  text-decoration: underline !important;
+}
+
+.parent{
+    margin-top: 9rem;
+}
+
+
+.cardparent{
+    margin-left: 4rem;
+}
+
+
+
+.card{
+    box-shadow:1px 1px 16px rgb(231, 196, 196);
+    border: none !important;
+    
+}
+
+
+#h2{
+    margin-left: 5rem;
+    font-weight: 600;
+    font-size: 3rem;
+    color: black;
+}
+
+
+
+
+
+.gobutton{
+    margin-top: 4rem;
+    margin-left: 35rem;
+   display: flex;
+   align-items: center;
+ 
+}
+
+
+
+.parent100{
+    margin-top: 9rem;
+    height: 140vh;
+}
+
+.photoparet100{
+    display: flex;
+    align-items:center ;
+    margin-left: 6rem;
+}
+
+#tm{
+    border-radius: 0.8rem;
+    height: 61.5vh;
+    width: 41vw;
+
+}
+
+.card400{
+    margin-left:2rem ;
+}
+
+.card100{
+    margin-top: 1.5rem;
+}
+
+.hello{
+    justify-content: center;
+}
+#hello{
+    height: 3.5rem;
+    width: 10rem;
+    margin-left: 35rem;
+    border: 1px solid tomato;
+    border-radius: 5rem;
+    color: tomato;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: 0.5s;
+}
+#hello:hover{
+    color: white;
+    background-color:tomato;
+}
+
+
+.card{
+    box-shadow: none;
+}
+
+.paragraph{
+    margin: auto !important;
+    height: 50vh;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+#h5{
+    text-align: center !important;
+    margin: auto !important;
+    font-size: 2.7rem;
+    color: black;
+}
+
+.gbouut{
+    display: flex;
+    align-items: center;
+}
+
+.aboutme{
+    margin: auto !important; 
+    margin-left:15rem;
+    justify-content: center;
+}
+
+footer{
+    height: 60vh;
+    width: 100%;
+    background-color: black;
+}
+
+#ab-10{
+    color: tomato;
+    font-size: 3rem;
+    margin: auto;
+}
+
+.parent1000{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#ab-20{
+    color: white;
+    font-size: 1.2rem;
+
+}
+
+
+.born2{
+  display: flex;
+  align-items: center;    
+}
+
+
+#btn1{
+   height: 3.5rem;
+   width: 12rem;
+   border-radius: 5rem;
+   border: 1px solid white;
+   background-color: black;
+   color: white;
+   transition: 0.5s;
+}
+
+#btn1:hover{
+   color: tomato;
+}
+
+
+#btn2{
+    height: 3.5rem;
+   width: 10rem;
+   border-radius: 5rem;
+   background-color: tomato;
+   color: white;
+   border: none;
+
+} 
+
+.button2{
+    margin-left:2rem;
+}
+
+
+i{
+    color: tomato;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+.icons{
+    margin-left: 7rem;
+}
+
+
+.parent2000{
+    align-items: center;
+    justify-content: space-around;
+}
+
+.first{
+    color: white;
+}
+#fir{
+    color: tomato;
+}
+
+.tim{
+    color: white;
+    margin-left: 1rem;
+    font-weight: 500;
+    transition: 0.5s;
+
+}
+
+.tim:hover{
+    color: tomato;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+
+
+.parent2000{
+    width: 95%;
+}
+
+.first{
+    margin-left: 1rem;
+}
+
+.parent2000{
+     display: flex;
+}
+
+.aboutme{
+    justify-content: center;
+}
+
+
+.ios{
+    font-size: 1.2rem !important;
+}
+
+.gbouut{
+    width: 100%;
+    justify-content: center;
+}
+
+
+.forabout{
+    margin-left: 1rem;
+}
+
+#forbrand{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: tomato;
+}
+
+
+.para3{
+    width: 95%;
+}
+
+
+#forabout{
+    color: black;
+}
+
+.h9{
+    width: 95%;
+    justify-content: center;
+}
+
+.parent5000{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.pic1{
+    height: 60vh;
+    width: 40.8vw;
+    background-image: url(img/blog1.webp);
+}
+
+.pic2{
+    height: 60vh;
+    width: 40.8vw;
+    background-image: url(img/blog2.webp);
+}
+
+.let{
+    height: 3.5rem;
+    width: 9rem;
+}
+
+
+.aboutpic{
+    margin-top:15rem;
+    margin-left:3rem;
+}
+
+.merj{
+    display: flex;
+    align-items: center;
+}
+
+#vk{
+   height: 2rem;
+   width: 4.5rem;
+   border-radius: 5rem;
+   background-color: tomato;
+   border: none;
+   color: white;
+   font-weight: 600;
+   transition: 0.5s;
+}
+
+#vk:hover{
+   background-color: white;
+   color: black;
+}
+
+#vr{
+    color: white;
+    margin-left: 2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#vs{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: white;
+  
+}
+
+
+.em{
+    color: white;
+    text-decoration: none !important;
+}
+
+
+.pic1:hover .em{
+    text-decoration:underline !important ;
+}
+
+.pic2:hover .em{
+    text-decoration: underline !important;
+}
+
+
+.back{
+    width: 100% !important;
+}
+
+.photoparet100{
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.card400{
+    margin-left: 0px;
+}
+
+
+
+.card-text{
+    margin-top: 8rem;
+}
+
+.about{
+    margin: auto;
+   justify-content: space-around !important;
+
+}
+
+
+.card{
+   
+     height: 13rem !important;
+     
+}
+
+.go{
+    margin: auto;
+    
+}
+
+
+
+
+#hello{
+    background-color: white;
+}
+
+
+#about{
+    font-size: 2.5rem !important;
+
+}
+
+
+.about{
+    justify-content: space-around !important;
+}
+
+
+.img{
+    margin: auto !important;
+}
+
+
+.para{
+    margin-left: 14rem !important;
+}
+
+.wasd{
+    height: 60vh;
+    width: 40vw;
+}
+
+.card{
+    width: 23rem !important;
+}
+
+.pic1{
+    background-size: 100% 100%;
+}
+
+.pic2{
+    background-size: 100% 100%;
+}
+
+.cardparent{
+    margin: auto !important;
+}
+
+
+.format{
+    width: 100%;
+    justify-content: center;
+    text-align: center !important;
+}
+#ht5{
+  margin-left: 0px;
+
+}
+
+#hello{
+    margin-left: 0px;
+    margin: auto;
+    text-align: center !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-width: 768px) {
+    
+     .back{
+        height: 150vh;
+     }
+
+
+    .about {
+      display: block !important;
+      margin-top: 50px;
+      margin-left: 2rem;
+    }
+
+    .img{
+        height: 50vh;
+        width: 60vw;
+    }
+
+    .para{
+        font-size: 1rem !important;
+        margin-left: 0px;
+    }
+
+
+  .contact{
+
+    display:block;
+    height: 60vh;
+  }
+
+  .num{
+    text-align: center;
+    
+  }
+
+.mail{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.whatapp{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.navbutton{
+    display: block;
+}
+
+
+.navbarbutton{
+    display: block !important;
+}
+
+
+
+
+
+
+.cardparent{
+   display: block !important;
+}
+
+
+
+
+.card{
+    border: none !important;
+    margin-left: -3.5rem;
+    width: 29rem !important;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+    justify-content: center;
+    break-inside: avoid !important;
+    
+}
+ 
+
+.go{
+    margin-left: 7.5rem;
+}
+
+.parent{
+    height: 130vh !important;
+}
+
+
+.linkmarker{
+    background-color: black;
+}
+
+.let{
+    display: none !important;
+}
+
+
+.card{
+    margin-top: 2rem;
+}
+
+#about{
+    font-size: 2rem;
+}
+
+#head{
+    font-size: 1rem;
+}
+
+.back{
+    height: 100vh;
+}
+
+#h1{
+    margin-top: 8rem;
+    margin-left: 6rem;
+
+}
+
+#h2{
+    margin-left: 7.5rem;
+}
+
+
+
+.photoparet100{
+    align-items: center !important;
+    display: block;
+    margin-left: 0px;
+}
+
+.wasd{
+    height: 25rem;
+    width: 27rem;
+    margin-left: 1.5rem;
+}
+
+#tm{
+    margin-left: -9px;
+    height: 25rem;
+    width: 27rem;
+}
+
+.parent100{
+    height:270vh;
+}
+
+#hello{
+    text-align: center;
+    margin-top: 12rem;
+    margin-left: 9.5rem;
+}
+
+#h1{
+    
+    margin: auto;
+}
+.cardparent{
+    margin-left: 0px;
+}
+
+.card{
+    margin-left: 0px;
+   margin: auto;
+   margin-top: 2rem;
+   width: 95% !important;
+   justify-content: center;
+    
+}
+
+.workimages{
+            width: 100% !important;
+            display: flex;
+            justify-content: center;
+}
+
+#h2{
+ margin-left: 0px;
+}
+
+
+.go{
+    margin: auto;
+   
+}
+
+.card-body{
+    justify-content: center !important;
+    margin: auto;
+}
+
+
+.wasd{
+    margin-left: 0px;
+    margin: auto !important;
+    width: 95%;
+}
+
+.photoparet100{
+    margin: auto !important;
+}
+
+
+.parent100{
+    margin-left: 1.7rem;
+
+
+}
+
+.card400{
+    margin-left: 0px;
+}
+
+#tm{
+    margin-left: 0px;
+    width: 95%;
+}
+
+#hello{
+    margin: auto;
+}
+
+#ts{
+    height: 3rem;
+    width: 100%;
+    justify-content: center;
+}
+
+
+.navbar-nav{
+    text-align: center;
+}
+
+
+
+
+.parent1000{
+    display: block;
+}
+
+
+
+.born{
+    margin-left: 2rem;
+}
+
+
+.born2{
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.icons{
+    margin: auto;
+    margin-top: 3rem;
+    justify-content: space-around;
+}
+
+
+i{
+    margin: auto;
+    margin-left: 5.5rem;
+    font-size: 2rem;
+}
+
+footer{
+    height: 90vh;
+}
+
+.fa-globe{
+    margin-top: 1rem;
+}
+
+.parent2000{
+    display: block !important;
+}
+
+.footerlinks{
+    margin-top: 3rem;
+    justify-content: space-around;
+}
+
+.parent5000{
+    display: block;
+}
+
+.pic1{
+    margin-top: 2rem !important;
+    width: 95%;
+    background-size: 100% 100%;
+     margin: auto;
+}
+
+.pic2{
+    margin-top: -8em !important;
+   width: 95%;
+   background-size: 100% 100%;
+    margin: auto;
+}
+
+
+
+
+.aboutpic{
+    padding-top: 8rem;
+    justify-content: center;
+    
+}
+
+.about{
+    padding-top: 5rem;
+}
+
+#about{
+   padding-top: 3rem;
+}
+
+.img{
+    width: 100%;
+    margin: auto;
+}
+
+.pic1{
+    width: 95% !important;
+}
+
+.card-text{
+    margin-top: 15rem;
+}
+
+footer{
+    height: 100%;
+}
+
+.back{
+    height: 150vh;
+}
+
+#about{
+    font-size: 3rem;
+}
+
+
+#head{
+    font-size: 2rem;
+
+}
+
+.para{
+    margin-left: 0px !important;
+}
+
+.card{
+    justify-content: center !important;
+}
+
+.card-linker{
+    text-align: center;
+}
+
+.img{
+    margin-top: 2rem !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:400px){
+
+    .born2{
+        display: block !important;
+    }
+
+    footer{
+        height: 140vh;
+    }
+
+}
+
+         
+
+
+}
+
+@media (max-width:990px){
+   
+
+
+    .navbar-toggler{
+        display: block !important;
+    }
+
+    .linkmarker{
+        background-color: black !important;
+    }
+
+}
+
